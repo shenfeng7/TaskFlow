@@ -49,7 +49,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<testSourceDirectory>src/test</testSourceDirectory>
+		<testSourceDirectory>src/test/java</testSourceDirectory>
 	</build>
 
 </project>
